@@ -24,3 +24,4 @@ pymysql
 Tests:
 
 /sms_api/service/test.py file contains webservice test cases to post to the apis
+yet to update unit and functional testcases
